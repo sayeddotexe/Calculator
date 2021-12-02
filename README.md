@@ -16,6 +16,7 @@ This is a Calculator with interface which implements the Reverse Polish and Infi
 ```Java
 1) Input Expression in perferred notation
 2) Displays error on invalid input
+3) Uses JAVAFX interface for user interaction.
 
 ```
 
